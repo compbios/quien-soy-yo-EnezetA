@@ -19,6 +19,12 @@ Soy afortunado de estar rodeado de gente que me apoya en todas las cosas que me 
 - [x] Ahorrar
 - [ ] Conseguir un mejor trabajo
 
+1. uno
+3. tres
+5. cinco
+4. cuatro
+2. dos
+
 # Contacto
 
 - Correo: JorgeGuerra@correo.com
