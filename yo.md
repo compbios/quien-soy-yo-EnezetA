@@ -1,3 +1,5 @@
+![https://avatars1.githubusercontent.com/u/6463081?s=400&u=c284aa23356be74446c91fd4763b81480cceff70&v=4](Yo)
+
 # Acerca de mi
 
 Mi nombre es Jorge Enrique Guerra Caycedo, tengo 37 años, vivo en Bogotá, soy casado.
