@@ -1,4 +1,4 @@
-<img src="https://avatars1.githubusercontent.com/u/6463081?s=400&u=c284aa23356be74446c91fd4763b81480cceff70&v=4 =250x" width="250" height="250"/>
+<img src="https://avatars1.githubusercontent.com/u/6463081?s=400&u=c284aa23356be74446c91fd4763b81480cceff70&v=4 =250x" width="250" height="250" alt="Yo xD"/>
 
 # Acerca de mi
 
@@ -21,11 +21,6 @@ Soy afortunado de estar rodeado de gente que me apoya en todas las cosas que me 
 - [x] Ahorrar
 - [ ] Conseguir un mejor trabajo
 
-1. uno
-3. tres
-5. cinco
-4. cuatro
-2. dos
 
 # Contacto
 
