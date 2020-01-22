@@ -1,4 +1,4 @@
-![Yo](https://avatars1.githubusercontent.com/u/6463081?s=400&u=c284aa23356be74446c91fd4763b81480cceff70&v=4)
+![Yo](https://avatars1.githubusercontent.com/u/6463081?s=400&u=c284aa23356be74446c91fd4763b81480cceff70&v=4 =250x250)
 
 # Acerca de mi
 
